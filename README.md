@@ -10,3 +10,8 @@ http://qiita.com/k5n/items/cc0377b75d8537ef8a85
 ##Advent Calendar
 - http://www.adventar.org/calendars/477
 - http://www.adventar.org/calendars/857
+
+# design pattern
+http://rei19.hatenablog.com/entry/2015/11/23/104126
+
+
